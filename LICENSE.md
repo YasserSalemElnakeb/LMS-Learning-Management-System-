@@ -1,6 +1,6 @@
 # Portfolio License — All Rights Reserved
 
-Copyright (c) 2026 Yasser Salem Elnakeb
+Copyright (c) 2025 Yasser Salem Elnakeb
 
 All rights reserved.
 
@@ -80,4 +80,4 @@ holder through the contact information provided on the GitHub profile.
 
 ---
 
-**Copyright © 2026 Yasser Salem Elnakeb. All Rights Reserved.**
+**Copyright © 2025 Yasser Salem Elnakeb. All Rights Reserved.**
