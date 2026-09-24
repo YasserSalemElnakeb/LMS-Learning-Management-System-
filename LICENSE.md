@@ -42,7 +42,7 @@ or other work, please provide clear attribution to:
 **Yasser Salem Elnakeb — My Data Analysis Project**
 
 Repository:
-https://github.com/YasserSalemElnakeb/LMS-Learning-Management-System
+https://github.com/YasserSalemElnakeb/LMS-Learning-Management-System-
 
 ## Third-Party Materials
 
